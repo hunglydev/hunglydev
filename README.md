@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ly Hai Hung</h1>
-<h3 align="center">I’m currently 3rd year student and studying in Hanoi University of Industry</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hunglydev&label=Profile%20views&color=0e75b6&style=flat" alt="hunglydev" /> </p>
+<h3 align="left">I’m currently 3rd year student and studying in Hanoi University of Industry</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -25,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunglydev&show_icons=true&locale=en" alt="hunglydev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunglydev&" alt="hunglydev" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hunglydev&label=Profile%20views&color=0e75b6&style=flat" alt="hunglydev" /> </p>
