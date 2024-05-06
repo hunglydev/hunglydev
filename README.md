@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ly Hai Hung</h1>
-<h3 align="left">I’m currently 3rd year student and studying in Hanoi University of Industry</h3>
+<h3 align="left">I’m currently 3rd year student and studying at Hanoi University of Industry</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
