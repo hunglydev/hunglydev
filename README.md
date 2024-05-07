@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **freelance of Flutter**
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **lyhaihung2003@gmail.com**
 
