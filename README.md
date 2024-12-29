@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **lyhaihung2003@gmail.com**
+- 📫 How to reach me **hunglydev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
