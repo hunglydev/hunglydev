@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ly Hai Hung</h1>
 <h3 align="left">I'm a Mobile Developer with over two years of experience in Flutter development.</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 👯 I’m looking to collaborate on **freelance of Flutter**
 
